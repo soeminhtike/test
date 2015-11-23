@@ -1,1 +1,7 @@
 "hello" 
+next commit
+next commit
+
+Hello world
+
+next text
