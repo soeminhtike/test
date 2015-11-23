@@ -1,2 +1,3 @@
 before amend
 adding amend
+This message must be the last
