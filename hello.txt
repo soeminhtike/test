@@ -1,7 +1,2 @@
-"hello" 
-next commit
-next commit
-
-Hello world
-
-next text
+before amend
+adding amend
